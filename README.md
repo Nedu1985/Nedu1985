@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nedu1985
+- 👋 Hi, I’m Chinedum
 - 👀 I’m interested in python and data analysis
 - 💞️ I’m looking to collaborate on python codes for data analysis
 - 📫 How to reach me okonkwochinedum@gmail.com
