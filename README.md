@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nedu1985
 - 👀 I’m interested in python and data analysis
-- 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on python codes for data analysis
 - 📫 How to reach me okonkwochinedum@gmail.com
 
